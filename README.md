@@ -12,4 +12,5 @@ walking, walking_upstairs, walking_downstairs, sitting, standing, and laying.
 run_analysis.R assumes that the files are downloaded to the working directory or file
 paths accessible to that directory per the code in run_analysis.R.
 
-Codebook.md describes the variables (columns), rows (), and files and processing in run_analysis.R
+Codebook.md describes the 68 variables (columns) and the 180 rows (30 volunteers * six activities)
+and input files and processing in run_analysis.R
